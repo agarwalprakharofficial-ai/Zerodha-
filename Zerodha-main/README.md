@@ -1,2 +1,2 @@
 # Zerodha
-Zerodha Stock Trading platform.
+Full Stack Stock Monitoring platform.
